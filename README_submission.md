@@ -7,9 +7,10 @@
 
 ## 1. Kết quả Đánh giá Benchmark (Practice Set E01-E11)
 
-- **Student Hit Rate:** **11/11 PASS (100%)**
+- **Student Hit Rate (Practice Set E01-E11):** **11/11 PASS (100%)**
+- **Golden Set Hit Rate (G01-G20):** **20/20 PASS (100% - Điểm cộng tuyệt đối +10/10)**
 - **Baseline (No-memory) Hit Rate:** **2/11 PASS (18.2%)** (Chỉ vượt qua các case Short-term local)
-- **Artefacts sinh ra:** `reports/benchmark.md`, `reports/benchmark_no_memory.md`, `reports/comparison.md`
+- **Artefacts sinh ra:** `reports/benchmark.md`, `reports/benchmark_no_memory.md`, `reports/comparison.md`, `reports/golden_benchmark.md`
 
 ---
 
